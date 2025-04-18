@@ -2,7 +2,7 @@ name: Xlog
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -40,7 +40,7 @@ jobs:
         run: |
           ../xlog \
           --build . \
-          --sitename "odieder"
+          --sitename "digital-garden"
           rm *.md
           chmod -R 0777 .          
 
