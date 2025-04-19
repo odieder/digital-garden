@@ -1,0 +1,21 @@
+# Erinnerungen
+
+1950er und 1960er
+
+![](DIA_0004.JPG)
+![](DIA_0005.JPG)
+
+![](DIA_0022.JPG)
+![](DIA_0028.JPG)
+
+![](DIA_0029.JPG)
+![](DIA_0041.JPG)
+
+![](DIA_0050.JPG)
+![](DIA_0070.JPG)
+
+![](DIA_0078.JPG)
+![](DIA_0084.JPG)
+
+![](DIA_0097.JPG)
+![](DIA_0100.JPG)
